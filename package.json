@@ -1,0 +1,17 @@
+{
+  "name": "crypt",
+  "version": "1.0.0",
+  "description": "crypt",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crypt"
+  ],
+  "author": "caowencheng <845982120@qq.com>",
+  "license": "ISC",
+  "dependencies": {
+    "node-rsa": "^0.4.2"
+  }
+}
